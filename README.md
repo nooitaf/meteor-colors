@@ -5,6 +5,8 @@ _At the moment only suppported on the server._
 
 ####Usage
 
+<img src="https://raw.githubusercontent.com/nooitaf/meteor-colors/master/screenshot.jpg" alt="screenshot.jpg">
+
 ````javascript
 console.log('red'.red)
 console.log('green'.green)
