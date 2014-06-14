@@ -44,7 +44,7 @@ console.log(test.rainbow);
 
 ## Creating Custom themes
 
-```js
+````javascript
 colors.setTheme({
   silly: 'rainbow',
   input: 'grey',
@@ -63,15 +63,17 @@ console.log("this is an error".error);
 
 // outputs yellow text
 console.log("this is a warning".warn);
-```
+````
 
 
 ### Contributors 
 
-|[marak](https://github.com/marak) | (Marak Squires)  
-|[cloudhead](https://github.com/cloudhead) | (Alexis Sellier)  
-|[mmalecki](https://github.com/mmalecki) | (Maciej Małecki)  
-|[nicoreed](https://github.com/nicoreed) | (Nico Reed)  
-|[morganrallen](https://github.com/morganrallen) | (Morgan Allen)  
-|[JustinCampbell](https://github.com/JustinCampbell) | (Justin Campbell)  
-|[ded](https://github.com/ded) | (Dustin Diaz)  
+| User | Name |
+| ----- | ----- |
+| [marak](https://github.com/marak)                     | Marak Squires     |
+| [cloudhead](https://github.com/cloudhead)             | Alexis Sellier    |
+| [mmalecki](https://github.com/mmalecki)               | Maciej Małecki    |
+| [nicoreed](https://github.com/nicoreed)               | Nico Reed         |
+| [morganrallen](https://github.com/morganrallen)       | Morgan Allen      |
+| [JustinCampbell](https://github.com/JustinCampbell)   | Justin Campbell   |
+| [ded](https://github.com/ded)                         | Dustin Diaz       |
