@@ -1,6 +1,7 @@
 ##Colors.js for Meteor
 
-Meteor wrapper for [Colors.js](https://github.com/Marak/colors.js)
+Meteor wrapper for [Colors.js](https://github.com/Marak/colors.js)  
+
 _At the moment only suppported on the server._  
 
 ####Usage
@@ -8,6 +9,7 @@ _At the moment only suppported on the server._
 <img src="https://raw.githubusercontent.com/nooitaf/meteor-colors/master/screenshot.jpg" alt="screenshot.jpg">
 
 ````javascript
+//server
 console.log('red'.red)
 console.log('green'.green)
 console.log('blue'.blue)
