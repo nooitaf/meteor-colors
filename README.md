@@ -68,10 +68,10 @@ console.log("this is a warning".warn);
 
 ### Contributors 
 
-[marak](https://github.com/marak) | (Marak Squires)  
-[cloudhead](https://github.com/cloudhead) | (Alexis Sellier)  
-[mmalecki](https://github.com/mmalecki) | (Maciej Małecki)  
-[nicoreed](https://github.com/nicoreed) | (Nico Reed)  
-[morganrallen](https://github.com/morganrallen) | (Morgan Allen)  
-[JustinCampbell](https://github.com/JustinCampbell) | (Justin Campbell)  
-[ded](https://github.com/ded) | (Dustin Diaz)  
+|[marak](https://github.com/marak) | (Marak Squires)  
+|[cloudhead](https://github.com/cloudhead) | (Alexis Sellier)  
+|[mmalecki](https://github.com/mmalecki) | (Maciej Małecki)  
+|[nicoreed](https://github.com/nicoreed) | (Nico Reed)  
+|[morganrallen](https://github.com/morganrallen) | (Morgan Allen)  
+|[JustinCampbell](https://github.com/JustinCampbell) | (Justin Campbell)  
+|[ded](https://github.com/ded) | (Dustin Diaz)  
