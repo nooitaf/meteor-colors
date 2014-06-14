@@ -68,10 +68,10 @@ console.log("this is a warning".warn);
 
 ### Contributors 
 
-Marak (Marak Squires)
-Alexis Sellier (cloudhead)
-mmalecki (Maciej Małecki)
-nicoreed (Nico Reed)
-morganrallen (Morgan Allen)
-JustinCampbell (Justin Campbell)
-ded (Dustin Diaz)
+Marak (Marak Squires)  
+Alexis Sellier (cloudhead)  
+mmalecki (Maciej Małecki)  
+nicoreed (Nico Reed)  
+morganrallen (Morgan Allen)  
+JustinCampbell (Justin Campbell)  
+ded (Dustin Diaz)  
