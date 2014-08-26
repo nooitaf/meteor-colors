@@ -1,9 +1,0 @@
-{
-  "name": "colors",
-  "description": "Add colors to strings",
-  "homepage": "https://github.com/nooitaf/meteor-colors",
-  "author": "nooitaf (http://nooitaf.nl)",
-  "version": "0.0.1",
-  "git": "https://github.com/nooitaf/meteor-colors.git",
-  "packages": { }
-}
