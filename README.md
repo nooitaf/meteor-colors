@@ -10,7 +10,6 @@ _At the moment only suppported on the server._
 `meteor add nooitaf:colors`
 
 ## Usage
-<img src="https://raw.githubusercontent.com/nooitaf/meteor-colors/master/screenshot.jpg" alt="screenshot.jpg">
 ````javascript
 //server
 console.log('red'.red)
@@ -22,6 +21,7 @@ console.log('~~~~~~'.grey)
 var test = 'ALLTHECOLORS';
 console.log(test.rainbow);
 ````
+<img src="https://raw.githubusercontent.com/nooitaf/meteor-colors/master/screenshot.jpg" alt="screenshot.jpg">
 
 ## Colors and styles!
 
