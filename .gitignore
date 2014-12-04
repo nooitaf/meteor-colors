@@ -1,2 +1,5 @@
 
 versions.json
+.build*
+
+.npm/package/npm-shrinkwrap.json
