@@ -2,7 +2,7 @@
 
 Meteor wrapper for [Colors.js](https://github.com/Marak/colors.js)  
 
-_At the moment only suppported on the server._  
+_Server Only_  
 
 
 ## Installation
