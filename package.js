@@ -11,6 +11,7 @@ Npm.depends({
 
 Package.on_use(function (api, where) {
   api.versionsFrom('METEOR@1.0');
-  if(api.export) api.export('colors','server');
   api.add_files('export-colors.js', 'server');
+  if(api.export) api.export('colors','server');
 });
+ 
