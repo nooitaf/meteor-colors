@@ -1,4 +1,4 @@
-##Colors.js for Meteor
+## Colors.js for Meteor
 
 Meteor wrapper for [Colors.js](https://github.com/Marak/colors.js)  
 
