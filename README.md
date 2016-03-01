@@ -1,15 +1,15 @@
-## Colors.js for Meteor
+# Colors.js for Meteor
 
 Meteor _Server Only_  wrapper for [Colors.js](https://github.com/Marak/colors.js) 1.0.3
 
  
 
 
-## Installation
+# Installation
 
 `meteor add nooitaf:colors`
 
-## Usage
+# Usage
 ````javascript
 //server
 console.log('red'.red)
@@ -23,7 +23,7 @@ console.log(test.rainbow);
 ````
 <img src="https://raw.githubusercontent.com/nooitaf/meteor-colors/master/screenshot.jpg" alt="screenshot.jpg">
 
-## Colors and styles!
+# Colors and styles!
 
 - bold
 - italic
@@ -42,7 +42,7 @@ console.log(test.rainbow);
 - random
 
 
-## Creating Custom themes
+# Creating Custom themes
 
 ````javascript
 colors.setTheme({
@@ -66,7 +66,7 @@ console.log("this is a warning".warn);
 ````
 
 
-### Contributors 
+# Contributors 
 
 | User | Name |
 | ----- | ----- |
