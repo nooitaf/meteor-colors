@@ -1,6 +1,6 @@
 # Colors.js for Meteor
 
-Meteor _Server Only_  wrapper for [Colors.js](https://github.com/Marak/colors.js) 1.0.3
+Meteor _Server Only_  wrapper for [Colors.js](https://github.com/Marak/colors.js) 1.1.2
 
  
 
