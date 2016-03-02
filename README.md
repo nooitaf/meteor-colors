@@ -10,16 +10,22 @@ Meteor _Server Only_  wrapper for [Colors.js](https://github.com/Marak/colors.js
 `meteor add nooitaf:colors`
 
 # Usage
+
+## Enable colorful output
 ````javascript
-//server
+colors.enabled = true
+````
+## Output colors
+````javascript
+// server
 console.log('red'.red)
 console.log('green'.green)
 console.log('blue'.blue)
 console.log('~~~~~~'.grey)
 console.log('R'.red + 'G'.green + 'B'.blue)
 console.log('~~~~~~'.grey)
-var test = 'ALLTHECOLORS';
-console.log(test.rainbow);
+var test = 'ALLTHECOLORS'
+console.log(test.rainbow)
 ````
 <img src="https://raw.githubusercontent.com/nooitaf/meteor-colors/master/screenshot.jpg" alt="screenshot.jpg">
 
