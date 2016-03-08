@@ -11,9 +11,9 @@ Meteor _Server Only_  wrapper for [Colors.js](https://github.com/Marak/colors.js
 
 # Usage
 
-## Enable colorful output
+## Enable or disable colorful output
 ````javascript
-colors.enabled = true
+colors.enabled = true // default
 ````
 ## Output colors
 ````javascript

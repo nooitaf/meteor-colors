@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Add colors to strings using Colors.js",
-  version: "1.1.2",
+  version: "1.1.2_1",
   name: "nooitaf:colors",
   git: "https://github.com/nooitaf/meteor-colors.git"
 });
